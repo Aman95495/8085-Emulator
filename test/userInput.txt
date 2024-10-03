@@ -1,0 +1,5 @@
+
+MVI A 0A
+MVI B 0B
+ADD B
+HLT

@@ -1,0 +1,3 @@
+MVI A FF
+ADI 01
+HLT
